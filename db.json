@@ -1,0 +1,45 @@
+{
+"trainees":
+ [
+ {
+   "id": 1,
+   "first_name": "Peter",
+   "last_name": "Parker",
+   "birth_date": "1998-03-04",
+   "gender": "M",
+   "department_name": null
+ },
+ {
+   "id": 2,
+   "first_name": "Harry",
+   "last_name": "Potter",
+   "birth_date": "2001-08-30",
+   "gender": "M",
+   "department_name": null
+ },
+ {
+   "id": 3,
+   "first_name": "Peter",
+   "last_name": "Pan",
+   "birth_date": "2004-09-19",
+   "gender": "M",
+   "department_name": null
+ },
+ {
+   "id": 4,
+   "first_name": "Alice",
+   "last_name": "Kingsleigh",
+   "birth_date": "1999-07-02",
+   "gender": "F",
+   "department_name": null
+ },
+ {
+   "id": 5,
+   "first_name": "John",
+   "last_name": "Connor",
+   "birth_date": "2002-01-15",
+   "gender": "M",
+   "department_name": null
+ }
+]
+}
